@@ -4,8 +4,8 @@
       "label": "Immagine"
     },
     {
-      "label": "Decorative only",
-      "description": "Enable this option if the image is purely decorative and does not add any information to the content on the page. It will be ignored by screen readers and not given any alternative text."
+      "label": "Solo decorativo",
+      "description": "Abilita questa opzione se l'immagine è puramente decorativa e non aggiunge alcuna informazione al contenuto della pagina. Verrà ignorata dagli screen reader e non le verrà fornito alcun testo alternativo.."
     },
     {
       "label": "Testo alternativo",
@@ -20,12 +20,12 @@
       "default": "Immagine"
     },
     {
-      "label": "Expand Image",
-      "default": "Expand Image"
+      "label": "Espandere immagine",
+      "default": "Espandi immagine"
     },
     {
-      "label": "Minimize Image",
-      "default": "Minimize Image"
+      "label": "Ridurre a icona l'immagine",
+      "default": "Riduci a icona l'immagine"
     }
   ]
 }
